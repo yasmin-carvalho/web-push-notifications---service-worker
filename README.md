@@ -1,3 +1,4 @@
+teste
 <h1 align="center">
   <img alt="WebPushNotification" title="WebPushNotification" src="./.github/cover.svg"/>
 </h1>
